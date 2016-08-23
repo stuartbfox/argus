@@ -15,7 +15,7 @@ Not a show stopper, start the ordering process
 
 4) Predictor says you will run out of stuff in 3 days
 A show stopper unless averted.
-Could, in theory be passed to Reator to create 100 new cassandra nodes in 2 days time
+Could, in theory be passed to Reactor to create 100 new cassandra nodes in 2 days time
 
 # Components
 ## Agent
